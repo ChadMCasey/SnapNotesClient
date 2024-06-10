@@ -1,0 +1,73 @@
+@font-face {
+  font-family: "Inter";
+  font-weight: 400;
+  src: url("./fonts/Inter/Inter-Regular.ttf") format("ttf"),
+    url("./fonts/Inter/Inter-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: "Inter";
+  font-weight: 500;
+  src: url("./fonts/Inter/Inter-Medium.ttf") format("ttf"),
+    url("./fonts/Inter/Inter-Medium.woff") format("woff");
+}
+@font-face {
+  font-family: "Inter";
+  font-weight: 600;
+  src: url("./fonts/Inter/Inter-SemiBold.ttf") format("ttf"),
+    url("./fonts/Inter/Inter-SemiBold.woff") format("woff");
+}
+@font-face {
+  font-family: "Inter";
+  font-weight: 700;
+  src: url("./fonts/Inter/Inter-Bold.ttf") format("ttf"),
+    url("./fonts/Inter/Inter-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: "Inter";
+  font-weight: 800;
+  src: url("./fonts/Inter/Inter-ExtraBold.ttf") format("ttf"),
+    url("./fonts/Inter/Inter-ExtraBold.woff") format("woff");
+}
+@font-face {
+  font-family: "Inter";
+  font-weight: 900;
+  src: url("./fonts/Inter/Inter-Black.ttf") format("ttf"),
+    url("./fonts/Inter/Inter-Black.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Proxima Soft";
+  font-weight: 400;
+  src: url("./fonts/ProximaSoft/ProximaSoft-Regular.ttf") format("ttf"),
+    url("./fonts/ProximaSoft/ProximaSoft-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: "Proxima Soft";
+  font-weight: 500;
+  src: url("./fonts/ProximaSoft/ProximaSoft-Medium.ttf") format("ttf"),
+    url("./fonts/ProximaSoft/ProximaSoft-Medium.woff") format("woff");
+}
+@font-face {
+  font-family: "Proxima Soft";
+  font-weight: 600;
+  src: url("./fonts/ProximaSoft/ProximaSoft-SemiBold.ttf") format("ttf"),
+    url("./fonts/ProximaSoft/ProximaSoft-SemiBold.woff") format("woff");
+}
+@font-face {
+  font-family: "Proxima Soft";
+  font-weight: 700;
+  src: url("./fonts/ProximaSoft/ProximaSoft-Bold.ttf") format("ttf"),
+    url("./fonts/ProximaSoft/ProximaSoft-Black.woff") format("woff");
+}
+@font-face {
+  font-family: "Proxima Soft";
+  font-weight: 800;
+  src: url("./fonts/ProximaSoft/ProximaSoft-ExtraBold.ttf") format("ttf"),
+    url("./fonts/ProximaSoft/ProximaSoft-ExtraBold.woff") format("woff");
+}
+@font-face {
+  font-family: "Proxima Soft";
+  font-weight: 900;
+  src: url("./fonts/ProximaSoft/ProximaSoft-Black.ttf") format("ttf"),
+    url("./fonts/ProximaSoft/ProximaSoft-Black.woff") format("woff");
+}
