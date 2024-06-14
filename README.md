@@ -6,7 +6,6 @@ SnapNotes is a full stack note taking MERN application.
 ## Technologies
 
 Frontend
-
 - React
 - React Router
 - TanStack Query
@@ -15,7 +14,6 @@ Frontend
 - Framer Motion
 
 Backend
-
 - NodeJS
 - ExpressJS
 - MongoDB
